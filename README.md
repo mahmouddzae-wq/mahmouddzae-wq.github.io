@@ -23,4 +23,6 @@
 
 - Tools:  
   - Git & GitHub  
-  - NetBeans  
+  - NetBeans
+  - VS CODE
+    
